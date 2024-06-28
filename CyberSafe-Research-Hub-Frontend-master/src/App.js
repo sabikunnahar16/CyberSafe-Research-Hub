@@ -22,6 +22,7 @@ function App() {
     </nav>
     <div className="background">
         <h1>Welcome to CyberSafe Research-Hub</h1>
+        <h1>I have Change.</h1>
       </div>
       <div class="separation"></div>
       <footer className="footer">
