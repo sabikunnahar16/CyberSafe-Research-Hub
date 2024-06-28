@@ -2,12 +2,11 @@
 import './App.css';
 
 function App() {
-  return (
-    
-      <>
-  <nav>
-  <div class="logo">
-                <img src="shield-keyhole-blue-cyber-security-logo-Graphics-20359585-1.jpg" alt="img">
+      return (
+    <>
+    <nav>
+    <div class="logo">
+                <img src="" alt="img"></img>
     
     
         <ul id="navbar">
@@ -26,9 +25,9 @@ function App() {
       </div>
       <div class="separation"></div>
       <footer className="footer">
-        
-      <div class="credit">
-                <span><img src="https://www.vlrtraining.in/wp-content/uploads/2020/10/logo-cyber-security.png" alt="img"></span>
+      
+            <div class="credit">
+                <span><img src="https://www.vlrtraining.in/wp-content/uploads/2020/10/logo-cyber-security.png" alt="img"></img></span>
                 <span>&copy 2024 CyberSafe Research-Hub LLC All rights reserved.</span>
             </div>
             <div class="faq">
@@ -39,12 +38,15 @@ function App() {
                 </div>
                 <div class="faq1">
                     <a href="Contact">Contact</a>
-                    
+                    <a href="Cokie-Preferences">Cokie-Preferences</a>
                     <a href="Terms of use">Terms of use</a>
                 </div>
             </div>
-      </footer>
+        </footer>
+        
+      
     </>
+    
       
   );
 }
